@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
    ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JI%20HYE%20&fontSize=90)
   [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjh8721&count_bg=%23BCBCBC&title_bg=%23000000&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
