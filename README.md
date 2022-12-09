@@ -14,6 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Choi Ji Hye&text=지혜%20CodeGreen&fontSize=90)
-
-![header](https://capsule-render.vercel.app/api?type=waving)
+   ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=JI%20HYE%20&fontSize=90)
