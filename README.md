@@ -22,4 +22,8 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Html, JavaScript programming and computer science
 - 🥇 I majored in computer science
 - 🚅 My hometown is Incheon
+## Interest
+
+- 💻 Web Publishing        <img src="https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true">
+- 🖍️ Web Design
 
