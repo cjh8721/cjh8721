@@ -24,9 +24,9 @@ Here are some ideas to get you started:
 - 🚅 My hometown is Incheon
 
 ## Interest             
-
+<img src="https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true">
 - 💻 Web Publishing
-- 🖍️ Web Design                 <img src="https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true">
+- 🖍️ Web Design              
 
 ## github-stat
 
