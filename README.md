@@ -23,10 +23,10 @@ Here are some ideas to get you started:
 - 🥇 I majored in computer science
 - 🚅 My hometown is Incheon
 
-## Interest             <img src="https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true">
+## Interest             
 
 - 💻 Web Publishing
-- 🖍️ Web Design
+- 🖍️ Web Design                 <img src="https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true">
 
 ## github-stat
 
