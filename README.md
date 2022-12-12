@@ -20,6 +20,8 @@ Here are some ideas to get you started:
 Who Am I
 
 🌱 I’m currently learning Html, JavaScript programming and computer science
+
 🥇 I majored in computer science
+
 🚅 My hometown is Incheon
 
