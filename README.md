@@ -17,7 +17,7 @@ Here are some ideas to get you started:
    # Hi I'm JiHye Choi 💖
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fcjh8721&count_bg=%23FFA3DD&title_bg=%23FFF0F9&icon=&icon_color=%23EFEFEF&title=VISIT&edge_flat=false)](https://hits.seeyoufarm.com) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cjh8721421@gmail.com)](mailto:cjh8721421@gmail.com) [![Instagram Badge](https://img.shields.io/badge/-Instagram-dd2a7b?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/jihyejihey/)](https://www.instagram.com/jihyejihey/) 
 
-# Who Am I
+## Who Am I
 
 -🌱 I’m currently learning Html, JavaScript programming and computer science
 -🥇 I majored in computer science
