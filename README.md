@@ -26,8 +26,7 @@ Here are some ideas to get you started:
 ## Interest             
 
 - 💻 Web Publishing
-- 🖍️ Web Design        &nbsp <img src="https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true">      
-
+- 🖍️ Web Design       <img src="https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true">
 ## github-stat
 
 
