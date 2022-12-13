@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🖍️ Web Design 
 ## Github-Stat     
 
-<img src="https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true">
+<img src="https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true&theme=Gradient">
 
 ## Skills(Languages & Tools)
 
