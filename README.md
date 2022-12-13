@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 - 🖍️ Web Design 
 ## Github-Stat     
 
-![JI HYE's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh8721&show_icons=true&theme=Gradient)
+![JI HYE's GitHub stats](https://github-readme-stats.vercel.app/api?username=cjh8721&theme=dracula&show_icons=true)
 
 ## Skills(Languages & Tools)
 
